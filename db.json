@@ -1,0 +1,23 @@
+{
+    "products": [
+      {
+        "id": 1,
+        "title": "Product 1",
+        "details": "Details about Product 1",
+        "stock": 10,
+        "price": 20,
+        "category": "Electronics"
+      },
+      {
+        "id": 2,
+        "title": "Product 2",
+        "details": "Details about Product 2",
+        "stock": 15,
+        "price": 30,
+        "category": "Clothing"
+      }
+    ],
+    "cart": [],
+    "users":[]
+  }
+  
